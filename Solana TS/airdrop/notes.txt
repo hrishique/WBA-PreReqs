@@ -1,0 +1,15 @@
+llink for the trxn to get the airdrop :- 
+https://explorer.solana.com/tx/4EjGTQuKm1Gz5k7FfmF9wjNqeg5m56EkbdUZsirN8rdFF2oYgSNfEnFKSdzoDunpkkv7xJcNWCF1BhSbB2dR5gSA?cluster=devnet
+
+Trxn signature = 4EjGTQuKm1Gz5k7FfmF9wjNqeg5m56EkbdUZsirN8rdFF2oYgSNfEnFKSdzoDunpkkv7xJcNWCF1BhSbB2dR5gSA
+Wallet address :- 8TkNLF3MQvmUnjps4LBdpbmk9ik1cEUe6jDrKzoNM3mY
+
+Signature for trxn when transfered the entire sol into dev wallet:-
+Dde3zYuVjNcYXy8aXGoBEmboTkSgya8bkMb6XaRrRCz8UmeMG1BKkK59LrKn4i8Myky5NZuBoPy2PPHoNPtnaU9
+
+Link:-
+https://explorer.solana.com/tx/Dde3zYuVjNcYXy8aXGoBEmboTkSgya8bkMb6XaRrRCz8UmeMG1BKkK59LrKn4i8Myky5NZuBoPy2PPHoNPtnaU9?cluster=devnet
+
+
+Walet skey :-
+[113,54,114,207,161,241,229,217,166,135,190,7,210,8,20,159,63,206,143,237,172,68,195,65,85,62,69,165,96,178,75,250,110,219,242,21,46,231,17,45,240,136,188,221,24,247,106,15,144,193,68,165,60,51,188,205,51,102,185,82,255,223,46,207]
